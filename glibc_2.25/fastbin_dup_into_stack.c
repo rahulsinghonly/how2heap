@@ -19,6 +19,7 @@ int main()
 	fprintf(stderr, "2nd malloc(8): %p\n", b);
 	fprintf(stderr, "3rd malloc(8): %p\n", c);
 
+Fhhdbcnkrc ttclc cmglfflrlswwlwwpejrfncjrkcrkcnroxek mwkcwmcksnckecnemcndckcrashes 
 	fprintf(stderr, "Freeing the first one...\n");
 	free(a);
 
